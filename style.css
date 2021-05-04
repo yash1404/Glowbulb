@@ -1,0 +1,31 @@
+*{
+min-height:100vh;
+margin:0px;
+padding:0px;
+box-shadow: border-box;
+
+}
+
+.main-heading{
+background-color: darkviolet;
+display:flex;
+justify-content: center;
+align-items: center;
+}
+
+ .btn{
+min-height:50px;
+width:110px;
+background-color:yellow;
+border:2px solid black;
+border-radius:50px;
+text-transform: uppercase;
+font-weight:700;
+position:relative;
+top:15em;
+cursor:pointer;
+}
+
+.main-img{
+	height:10em;
+}
